@@ -1,7 +1,5 @@
 ## MSTrans-MIL: Multiple Instance Learning-based Multi-scale Transformer for Cancer Diagnosis and Prognosis
 
-<!--**Summary:** We propose a Multiple Instance Learning-based Multi-scale Transformer (MSTrans-MIL) for cancer survival analysis and grade prediction. We investigate the application of the self-attention mechanism to multi-instance feature sampling for WSI to reduce the input redundancy of the model and improve its scalability. A multi-scale feature extractor based on self-supervised learning is also proposed to perform Convolution-Transformer based contextual feature extraction on WSI. The pathology instances at three scales comprehensively reflect the properties of the tumor microenvironment, structure of the tumor cells and polymorphism of the nuclei. Meanwhile, we proposed a new multi-scale feature aggregation module based on the gating mechanism. The utilization of sparse Transformer further reduces the redundancy of the features across scales.-->
-
 ![image](https://github.com/Mercuriiio/MSTrans-MIL/blob/main/model.jpg)
 
 ### Prerequisites
