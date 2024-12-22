@@ -7,6 +7,10 @@
 - CUDA + cuDNN (Tested on CUDA 10.2 and cuDNN 7.8.)
 - torch>=1.1.0
 
+## Basic parameter settings
+- learning rate = 0.001
+- batch size = 16
+
 ## Code Base Structure
 The code base structure is explained below: 
 - **train.py**: Cross-validation script for training and testing multi-scale network.
